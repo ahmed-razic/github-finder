@@ -3,7 +3,7 @@
 ---
 
 <div>
-<a href="https://cars-commerce.vercel.app/" target="_blank" rel="noopener noreferrer"
+<a href="https://github-finder-vert-chi.vercel.app/" target="_blank" rel="noopener noreferrer"
     style="padding:0.5rem 0.7rem;
     color: black;
     background: #F1DEDE;
